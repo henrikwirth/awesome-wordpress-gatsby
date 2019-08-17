@@ -17,8 +17,8 @@ Ensure your pull request adheres to the following guidelines:
   - Link and Title of the resource
   - Explanation, why the resource should be changed or removed
 
-**For anything else, like typos or suggestion:**
-  - Just explain properly
+**For anything else, like typos or suggestions:**
+  - Please explain comprehensively
 
 
 Thank you for your suggestions!
