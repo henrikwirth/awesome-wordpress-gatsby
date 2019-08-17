@@ -1,4 +1,4 @@
-# Awesome Wordpress Gatsby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WordPress Gatsby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources about WordPress as a headless CMS with Gatsby
 
