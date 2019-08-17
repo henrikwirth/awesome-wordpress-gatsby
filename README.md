@@ -1,13 +1,13 @@
 # Awesome Wordpress Gatsby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources about Wordpress as a headless CMS with Gatsby
+> A curated list of resources about WordPress as a headless CMS with Gatsby
 
 
 ## Contents
 <!-- TOC -->
 - [Communities](#communities)
 - [Plugins](#plugins)
-	- [Wordpress](#wordpress)
+	- [WordPress](#wordpress)
 	- [Gatsby](#gatsby)
 - [Tutorials](#tutorials)
 	- [Written Tutorials](#written-tutorials)
@@ -33,9 +33,9 @@ If you need help with anything, there are some highly active communities.
 
 ## Plugins
 
-List of useful plugins to make Wordpress and Gatsby work together.
+List of useful plugins to make WordPress and Gatsby work together.
 
-### Wordpress
+### WordPress
 
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) | [Documentation](https://docs.wpgraphql.com/)
 - [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf)
@@ -61,7 +61,7 @@ List of useful plugins to make Wordpress and Gatsby work together.
 
 ## Tutorials
 
-**Note:** We differentiate between two ways of using Wordpress with GatsbyJS. There is the `gatsby-source-wordpress` plugin, that creates a Gatsby-GraphQL schema based on the **WP REST API** and there is the **WPGraphQL** way, that pulls directly from a GraphQL schema with the `gatsby-source-graphql` plugin.
+**Note:** We differentiate between two ways of using WordPress with GatsbyJS. There is the `gatsby-source-wordpress` plugin, that creates a Gatsby-GraphQL schema based on the **WP REST API** and there is the **WPGraphQL** way, that pulls directly from a GraphQL schema with the `gatsby-source-graphql` plugin.
 
 ### Written Tutorials
 
@@ -75,9 +75,9 @@ List of useful plugins to make Wordpress and Gatsby work together.
 
 
 **WP REST API**
-- [How To Build A Blog with Wordpress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e)
+- [How To Build A Blog with WordPress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e)
 - [Sourcing from WordPress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/)
-- [Complete guide to Wordpress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76)
+- [Complete guide to WordPress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76)
 
 
 ### Video Tutorials
@@ -92,7 +92,7 @@ List of useful plugins to make Wordpress and Gatsby work together.
 
 **WP REST API**
 - [Gatsby.js + WordPress](https://www.youtube.com/watch?v=etii9yp1J6s)
-- [Build a blog with React, Wordpress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)
+- [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)
 
 
 ## Examples & Starters
