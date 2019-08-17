@@ -5,13 +5,14 @@
 
 ## Contents
 <!-- TOC -->
+- [Communities](#communities)
 - [Plugins](#plugins)
-  - [Wordpress](#wordpress)
-  - [Gatsby](#gatsby)
+	- [Wordpress](#wordpress)
+	- [Gatsby](#gatsby)
 - [Tutorials](#tutorials)
-  - [Written Tutorials](#written-tutorials)
-  - [Video Tutorials](#video-tutorials)
-- [Examples](#examples)
+	- [Written Tutorials](#written-tutorials)
+	- [Video Tutorials](#video-tutorials)
+- [Examples & Starters](#examples--starters)
 - [Articles](#articles)
 - [Contribute](#contribute)
 - [License](#license)
