@@ -95,8 +95,9 @@ List of useful plugins to make WordPress and Gatsby work together.
 - [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)
 
 
-## Examples & Starters
+## Starters & Themes
 
+- [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) (Publisher Theme For Gatsby and WordPress)
 - [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example)
 - [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter)
 
