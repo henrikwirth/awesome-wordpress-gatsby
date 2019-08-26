@@ -44,6 +44,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 - [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg)
 - [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf)
 - [WP API Menus](https://wordpress.org/plugins/wp-api-menus/)
+- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments)
 
 
 **The obvious, that goes along with some of the plugins above:**
