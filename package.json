@@ -6,11 +6,6 @@
 	"scripts": {
 		"test": "markdown-link-check README.md"
 	},
-	"husky": {
-		"hooks": {
-			"pre-push": "npm test"
-		}
-	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/henrikwirth/awesome-wordpress-gatsby.git"
