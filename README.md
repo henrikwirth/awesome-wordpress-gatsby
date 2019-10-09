@@ -3,7 +3,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
   <a href="https://wordpress.org/"><img width="150" height="150" align="center" src="media/wordpress-logo.svg" alt="GatsbyJS"></a>
-      <a href="https://gatsbyjs.com/"><img width="150" height="150" align="center" src="media/gatsby-logo.svg" alt="WordPress"></a>
+      <a href="https://www.gatsbyjs.org/"><img width="150" height="150" align="center" src="media/gatsby-logo.svg" alt="WordPress"></a>
   <br /><br />
   <p>
     <b>
