@@ -1,12 +1,11 @@
-name: Check Markdown links
-
 on: push
+
+name: Check Markdown links
 
 jobs:
 	markdown-link-check:
 		runs-on: ubuntu-latest
 		steps:
-			- uses: actions/checkout@master
-			  with:
-				  fetch-depth: 1
-			- uses: gaurav-nelson/github-action-markdown-link-check@0.4.0
+			-   uses: actions/checkout@master
+			-   name: markdown-link-check
+			-   uses: gaurav-nelson/github-action-markdown-link-check@0.4.0
