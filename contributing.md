@@ -25,7 +25,7 @@ Thank you for your suggestions!
 
 ## Broken Link Checking
 
-We added a pre-push broken link checking. This means it runs through the README.md to make sure no dead links are used.
+We added a Github action (post-push) for broken link checking. This means it runs through the README.md to make sure no dead links are used.
 If you make a contribution and discover dead links, that have nothing todo with your PR, please let us know, so we can fix it straight away.
 
 
