@@ -1,7 +1,11 @@
 # Awesome WordPress Gatsby [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="gatsby-logo.svg" align="center" width="100">](https://www.gatsbyjs.org/)
-[<img src="wordpress-logo.svg" align="center" width="100">](https://wordpress.org/)
+<div align="center"> 
+	<a href="https://wordpress.org/"><img width="200" height="200" align="center" src="media/wordpress-logo.svg" alt="GatsbyJS"></a>
+    <a href="https://gatsbyjs.com/"><img width="200" height="200" align="center" src="media/gatsby-logo.svg" alt="GatsbyJS"></a>
+	<br>
+	<br>
+</div>
 
 > A curated list of resources about WordPress as a headless CMS with Gatsby
 
