@@ -107,7 +107,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 ## Starters & Themes
 
-- [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) - Publisher Theme For Gatsby and WordPress
+- [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) - Publisher Theme For Gatsby and WordPress.
 - [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example)
 - [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter)
 
