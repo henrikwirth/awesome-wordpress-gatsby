@@ -12,10 +12,8 @@
 - [Tutorials](#tutorials)
 	- [Written Tutorials](#written-tutorials)
 	- [Video Tutorials](#video-tutorials)
-- [Examples & Starters](#examples--starters)
+- [Starters & Themes](#starters--themes)
 - [Articles](#articles)
-- [Contribute](#contribute)
-- [License](#license)
 <!-- /TOC -->
 
 ## Communities
@@ -29,7 +27,7 @@ If you need help with anything, there are some highly active communities.
 **GatsbyJS**
 - [Discord Chat](https://gatsby.dev/discord)
 - [Reddit](https://www.reddit.com/r/gatsbyjs/)
-- [Stackoverflow](https://stackoverflow.com/questions/tagged/gatsby)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/gatsby)
 
 ## Plugins
 
@@ -37,7 +35,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 ### WordPress
 
-- [WPGraphQL](https://github.com/wp-graphql/wp-graphql) | [Documentation](https://docs.wpgraphql.com/)
+- [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/)
 - [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf)
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql)
 - [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang)
@@ -49,7 +47,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 **The obvious, that goes along with some of the plugins above:**
 
-- [Advanced Custom Fields](https://de.wordpress.org/plugins/advanced-custom-fields/) | [ACF PRO](https://www.advancedcustomfields.com/pro/)
+- [Advanced Custom Fields](https://de.wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
 - [Polylang](https://de.wordpress.org/plugins/polylang/)
 
 
@@ -67,12 +65,12 @@ List of useful plugins to make WordPress and Gatsby work together.
 ### Written Tutorials
 
 **General**
-- [2018.08] [Headless WordPress + Gatsby + Netlify continuous deployment](https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/)
+- 2018.08: [Headless WordPress + Gatsby + Netlify continuous deployment](https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/)
 
 
 **WPGraphQL**
-- [2019.08] [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/)
-- [2019.08] [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m)
+- 2019.08: [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/)
+- 2019.08: [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m)
 
 
 **WP REST API**
@@ -106,6 +104,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 ## Articles
 
 - ... more to come
+
 
 ## Contribute
 
