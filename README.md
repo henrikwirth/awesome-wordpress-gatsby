@@ -2,7 +2,7 @@
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
-  <a href="https://wordpress.org/"><img width="150" height="150" align="center" src="media/wordpress-logo.svg" alt="GatsbyJS"></a>
+  <a href="https://wordpress.org/"><img width="150" height="150" align="center" src="media/wordpress-logo.svg" alt="Gatsby"></a>
       <a href="https://www.gatsbyjs.org/"><img width="150" height="150" align="center" src="media/gatsby-logo.svg" alt="WordPress"></a>
   <br /><br />
   <p>
@@ -85,36 +85,31 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 
 **WP REST API**
-- [How To Build A Blog with WordPress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e)
-- [Sourcing from WordPress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/)
-- [Complete guide to WordPress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76)
+- 2019.09: [Sourcing from WordPress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/)
+- 2019.07: [Complete guide to WordPress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76)
+- 2019.04: [How To Build A Blog with WordPress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e)
+- 2018.10: [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)
 
 
 ### Video Tutorials
 
 **WPGraphQL**
-- [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs)
-- [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws)
-- [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg)
-- [GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference
+- 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs)
+- 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws)
+- 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg)
+- 2018.07: [GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference
 ](https://www.youtube.com/watch?v=6CuM1PY9ESQ)
 
 
 **WP REST API**
-- [Gatsby.js + WordPress](https://www.youtube.com/watch?v=etii9yp1J6s)
-- [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)
+- 2018.03: [Gatsby.js + WordPress](https://www.youtube.com/watch?v=etii9yp1J6s)
 
 
 ## Starters & Themes
 
-- [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) (Publisher Theme For Gatsby and WordPress)
+- [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) - Publisher Theme For Gatsby and WordPress
 - [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example)
 - [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter)
-
-
-## Articles
-
-- ... more to come
 
 
 ## Contribute
