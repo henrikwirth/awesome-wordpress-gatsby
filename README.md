@@ -17,13 +17,15 @@
 ## Contents
 <!-- TOC -->
 - [Communities](#communities)
+- [Articles](#articles)
 - [Plugins](#plugins)
 	- [WordPress](#wordpress)
 	- [Gatsby](#gatsby)
 - [Tutorials](#tutorials)
 	- [Written Tutorials](#written-tutorials)
 	- [Video Tutorials](#video-tutorials)
-- [Starters & Themes](#starters--themes)
+- [Starters](#starters)
+- [Themes](#themes)
 - [Articles](#articles)
 <!-- /TOC -->
 
