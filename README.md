@@ -7,11 +7,16 @@
   <br /><br />
   <p>
     <b>
-      A curated list of resources about WordPress as a headless CMS with Gatsby.
+      A curated list of resources about WordPress as a headless CMS with Gatsby as a Static Site Generator (SSG).
     </b>
   </p>
-  <br /><br />
+  <br />
 </div>
+
+A **headless CMS** is a back-end only content management system (CMS). Its purpose is to serve content and make it accessible via an API (e.g. REST or GraphQL).
+
+A **Static Site Generator (SSG)** is a framework or setup, that helps you to generate static websites (HTML/CSS/JS). The source of your data can be anything from local files (e.g. text files or markdown) to APIs (e.g. REST, GraphQL).
+
 
 
 ## Contents
