@@ -26,7 +26,6 @@
 	- [Video Tutorials](#video-tutorials)
 - [Starters](#starters)
 - [Themes](#themes)
-- [Articles](#articles)
 <!-- /TOC -->
 
 ## Communities
