@@ -40,6 +40,14 @@ If you need help with anything, there are some highly active communities.
 - [Reddit](https://www.reddit.com/r/gatsbyjs/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/gatsby)
 
+
+## Articles
+
+List of articles, that talk about the technology stack in general.
+
+- 2019.06: [Modern Web Development on the JAMstack
+](https://www.netlify.com/oreilly-jamstack/) - A report from Netlify about Modern Web Development on the JAMStack, published by O'REILLY.
+
 ## Plugins
 
 List of useful plugins to make WordPress and Gatsby work together.
@@ -76,41 +84,50 @@ List of useful plugins to make WordPress and Gatsby work together.
 ### Written Tutorials
 
 **General**
-- 2018.08: [Headless WordPress + Gatsby + Netlify continuous deployment](https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/)
+
+- 2018.08: [Headless WordPress + Gatsby + Netlify continuous deployment](https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/) - Guide showing how to create a WordPress + Gatsby + Netlify setup in a few simple steps.
 
 
 **WPGraphQL**
-- 2019.08: [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/)
-- 2019.08: [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m)
+- 2019.08: [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/) - Tutorial showing how to use the theme’s higher order component to facilitate previews for WordPress posts and custom post types.
+- 2019.08: [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m) - A guide, that shows how to implement gatsby-image, so it can be used for WordPress media files.
 
 
 **WP REST API**
-- 2019.09: [Sourcing from WordPress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/)
-- 2019.07: [Complete guide to WordPress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76)
-- 2019.04: [How To Build A Blog with WordPress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e)
-- 2018.10: [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004)
+- 2019.09: [Sourcing from WordPress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/) - This guide will walk you through the process of using Gatsby with WordPress Rest Api.
+- 2019.07: [Complete guide to WordPress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76) - This guide explains how to get the WordPress menu into your Gatsby build.
+- 2019.04: [How To Build A Blog with WordPress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e) - Tutorial (3 Parts) teaching you how to build a blog with WordPress and Gatsby.
+- 2018.10: [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004) - Tutorial teaching how to create a blog in 10 steps using Gatsby and WordPress as data source.
 
 
 ### Video Tutorials
 
 **WPGraphQL**
-- 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs)
-- 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws)
-- 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg)
+- 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs) - In this stream, Jason Bahl teaches how to use WordPress with Advanced Custom Fields and WPGraphQL to create an powerful, flexible admin dashboard, then query and display that data in a Gatsby site.
+- 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) - In this video you will learn how to use GraphQL with WordPress using an awesome plugin named WPGraphQL and some extra cool stuff like GraphQL + Advanced Custom Fields.
+- 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg) - Jason Bahl shows how to use WPGraphQL for Advanced Custom Fields.
 - 2018.07: [GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference
-](https://www.youtube.com/watch?v=6CuM1PY9ESQ)
+](https://www.youtube.com/watch?v=6CuM1PY9ESQ) - In this talk from the 2018 JavaScript for WordPress Conference, the Developer of the WP GraphQL Plugin, Jason Bahl, gives updated examples of how you can use GraphQL with WordPress and Gutenberg.
 
 
 **WP REST API**
-- 2018.03: [Gatsby.js + WordPress](https://www.youtube.com/watch?v=etii9yp1J6s)
+- 2018.03: [Gatsby.js + WordPress](https://www.youtube.com/watch?v=etii9yp1J6s) - In this mini-series the developer tries to create a website using Gatsby.js and WordPress.
 
 
-## Starters & Themes
+## Starters
+List of project starters, that you can clone and start building upon.
 
+- [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example) - Demo showing how to use WPGraphQL as the source for Gatsby Sites.
+- [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter) - A Gatsby + WordPress starter for continuous deployment to Netlify.
+
+
+## Themes
+List of gatsby-themes that work with WordPre as a source, which you can use in your Gatsby setup.
+
+- [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
 - [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) - Publisher Theme For Gatsby and WordPress.
-- [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example)
-- [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter)
-
+- [Gatsby WordPress Publisher Theme
+](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
 ## Contribute
 
