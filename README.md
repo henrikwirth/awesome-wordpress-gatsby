@@ -17,7 +17,9 @@ A **headless CMS** is a back-end only content management system (CMS). Its purpo
 
 A **Static Site Generator (SSG)** is a framework or setup, that helps you to generate static websites (HTML/CSS/JS). The source of your data can be anything from local files (e.g. text files or markdown) to APIs (e.g. REST, GraphQL).
 
+**Why Gatsby and WordPress?**
 
+WordPress is one of the **most used CMS in the world** and therefore many people already know how to work with it. The typical frontend approach with PHP-based templates is getting more and more problematic in an environment where performance is key. Using WordPress as a headless CMS with normal API calls through React already exists, but also has the downside of having to make requests to the server and rendering depending on the response. This adds time to load. **Gatsby instead, pre-renders the whole site at compile time** and therefore the user gets a **fully prepared static site on his first request**, making it one of the **best approaches for performance**. Another huge benefit is **security**, as your WordPress instance can be anywhere, even locally and you don't need to expose any of it to the user. **The static Gatsby site therefore, is not hackable.** Find further arguments for pros and cons in the resources below.
 
 ## Contents
 <!-- TOC -->
@@ -41,7 +43,7 @@ If you need help with anything, there are some highly active communities.
 - [Spectrum Chat](https://spectrum.chat/wpgraphql)
 - [Twitter](https://twitter.com/wpgraphql)
 
-**GatsbyJS**
+**Gatsby**
 - [Discord Chat](https://gatsby.dev/discord)
 - [Reddit](https://www.reddit.com/r/gatsbyjs/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/gatsby)
@@ -85,7 +87,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 ## Tutorials
 
-**Note:** We differentiate between two ways of using WordPress with GatsbyJS. There is the `gatsby-source-wordpress` plugin, that creates a Gatsby-GraphQL schema based on the **WP REST API** and there is the **WPGraphQL** way, that pulls directly from a GraphQL schema with the `gatsby-source-graphql` plugin.
+**Note:** We differentiate between two ways of using WordPress with Gatsby. There is the `gatsby-source-wordpress` plugin, that creates a Gatsby-GraphQL schema based on the **WP REST API** and there is the **WPGraphQL** way, that pulls directly from a GraphQL schema with the `gatsby-source-graphql` plugin.
 
 ### Written Tutorials
 
