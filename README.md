@@ -2,8 +2,8 @@
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
-  <a href="https://wordpress.org/"><img width="150" height="150" align="center" src="media/wordpress-logo.svg" alt="Gatsby"></a>
-      <a href="https://www.gatsbyjs.org/"><img width="150" height="150" align="center" src="media/gatsby-logo.svg" alt="WordPress"></a>
+  <a href="https://wordpress.org/"><img width="150" height="150" align="center" src="media/wordpress-logo.svg" alt="WordPress"></a>
+      <a href="https://www.gatsbyjs.org/"><img width="150" height="150" align="center" src="media/gatsby-logo.svg" alt="Gatsby"></a>
   <br /><br />
   <p>
     <b>
@@ -135,7 +135,6 @@ List of project starters, that you can clone and start building upon.
 List of gatsby-themes that work with WordPre as a source, which you can use in your Gatsby setup.
 
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
-- [gatsby-theme-publisher](https://github.com/scottopolis/gatsby-theme-publisher) - Publisher Theme For Gatsby and WordPress.
 - [Gatsby WordPress Publisher Theme
 ](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
