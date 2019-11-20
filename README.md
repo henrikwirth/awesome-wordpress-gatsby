@@ -64,14 +64,18 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 ### WordPress
 
-- [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/)
-- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf)
-- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql)
-- [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang)
-- [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg)
-- [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf)
-- [WP API Menus](https://wordpress.org/plugins/wp-api-menus/)
-- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments)
+- [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - Exposes Advanced Custom Fields to the WPGraphQL Schema.
+- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) - Extends the WordPress dashboard with a GraphiQL IDE.
+- [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) - Extends WPGraphQL schema with language data from the Polylang plugin.
+- [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Exposes Gutenberg blocks to the WPGraphQL API.
+- [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) - Exposes ACF blocks through GraphQL
+- [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) - Adds Meta_Query support to the WPGraphQL Plugin for postObject query args.
+- [WPGraphQL Tax Query](https://github.com/wp-graphql/wp-graphql-tax-query) - Adds Tax_Query support to the WPGraphQL Plugin for postObject query args (WP_Query).
+- [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).
+- [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
+- [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) - Extends the WordPress JSON REST API with new routes for WordPress registered menus.
+- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
 
 
 **The obvious, that goes along with some of the plugins above:**
