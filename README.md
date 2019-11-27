@@ -104,6 +104,7 @@ List of useful plugins to make WordPress and Gatsby work together.
 
 
 **WPGraphQL**
+- 2019.11: [Guide to Gatsby WordPress Starter Advanced with Previews, i18n and more](https://dev.to/nevernull/overview-guide-to-gatsby-wordpress-starter-advanced-with-previews-i18n-and-more-583l) - A tutorial series starting with the basic setup of WordPress and Gatsby with WPGraphQL and then dives into more advanced subjects like deployments, previews, i18n and a page-builder like setup with ACF flexible cotent fields.
 - 2019.08: [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/) - Tutorial showing how to use the theme’s higher order component to facilitate previews for WordPress posts and custom post types.
 - 2019.08: [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m) - A guide, that shows how to implement gatsby-image, so it can be used for WordPress media files.
 
