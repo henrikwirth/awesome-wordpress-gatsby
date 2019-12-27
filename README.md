@@ -140,7 +140,7 @@ List of project starters, that you can clone and start building upon.
 
 
 ## Themes
-List of gatsby-themes that work with WordPre as a source, which you can use in your Gatsby setup.
+List of gatsby-themes that work with WordPress as a source, which you can use in your Gatsby setup.
 
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
 - [Gatsby WordPress Publisher Theme
