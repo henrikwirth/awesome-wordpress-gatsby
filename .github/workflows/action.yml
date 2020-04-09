@@ -1,4 +1,10 @@
-- name: Link Checker
-  uses: peter-evans/link-checker@v1
-  with:
-    args: -v -r README.md
+name: Check Markdown links
+
+on: push
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
